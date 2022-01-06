@@ -1,0 +1,73 @@
+﻿@model List<Product>
+@{
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <a class="btn btn-primary mb-3" asp-area="Admin" asp-controller="Product" asp-action="Create">Create</a>
+        </div>
+        <hr />
+
+        <div class="col-lg-12 mt-3">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Images</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Brand</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">About</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Size</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{ int i = 0;
+                        foreach (var prd in Model)
+                        {
+                            i++;
+                            <tr>
+                                <th scope="row">@i</th>
+                                <td>
+                                    @foreach (var item in prd.ProductImages)
+                                    {
+                                        <img src="~/images/product/@item.Name" alt="Alternate Text" style="width:50px; max-height:  50px;" />
+                                    }
+                                </td>
+                                <td>@prd.Name</td>
+                                <td>@prd.Brand.Name</td>
+                                <td>
+                                    @foreach (var item in prd.CategoryToProducts)
+                                    {
+                                        <span>@item.ProductCategory.Name</span>
+                                    }
+                                </td>
+                                <td>@prd.SizeToProducts.Sum(p => p.ColorToSizeToProducts.Sum(c => c.Quantity))</td>
+                                <td>@prd.About</td>
+                                <td>@prd.Desc</td>
+                                <td>
+                                    @foreach (var item in prd.SizeToProducts)
+                                    {
+                                        <p style="margin:0"><a asp-controller="product" asp-action="size" asp-route-id="@item.Id">@item.Size.Name</a></p>
+                                    }
+                                </td>
+
+                                <td>
+                                    <a class="btn btn-success" asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@prd.Id">Update</a>
+                                    <a class="btn btn-danger" asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@prd.Id" onclick="return confirm('Are you sure?')">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

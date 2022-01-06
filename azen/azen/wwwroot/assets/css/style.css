@@ -1,0 +1,13 @@
+.myAdded {
+    color: white !important;
+    background-color: red !important;
+}
+
+
+.myactive {
+    background-color: red !important;
+}
+
+    .myactive a {
+        color: white !important;
+    }

@@ -1,0 +1,33 @@
+﻿@model List<ColorToSizeToProduct>
+
+<div class="widget_shopping_cart_content">
+    <ul class="woocommerce-mini-cart cart_list product_list_widget ">
+        @foreach (var item in Model)
+        {
+            <li class="woocommerce-mini-cart-item mini_cart_item">
+                <a href="#" class="remove remove_from_cart_button">
+                    <i class="zmdi zmdi-close"></i>
+                </a>
+                <a href="simple-product.html">
+                    <img src="~/images/product/@item.SizeToProduct.Product.ProductImages.FirstOrDefault().Name" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="">@item.SizeToProduct.Product.Name
+                </a>
+                <span class="quantity">Qty : 1</span>
+                <span class="price">
+                    <span class="woocommerce-Price-amount amount">
+                        <span class="woocommerce-Price-currencySymbol">$</span>@item.SizeToProduct.Price.ToString("#.00")
+                    </span>
+                </span>
+            </li>
+        }
+    </ul>
+
+    <p class="woocommerce-mini-cart__total total">
+        <strong>Total:</strong> <span class="woocommerce-Price-amount amount">
+            <span class="woocommerce-Price-currencySymbol">$</span>@Model.Sum(p => p.SizeToProduct.Price * 1).ToString("#.00")
+        </span>
+    </p>
+    <p class="woocommerce-mini-cart__buttons buttons">
+        <a asp-controller="shop" asp-action="cart" class="button wc-forward">View cart (@Model.Count)</a>
+        <a asp-controller="shop" asp-action="checkout" class="button checkout wc-forward">Checkout</a>
+    </p>
+</div>

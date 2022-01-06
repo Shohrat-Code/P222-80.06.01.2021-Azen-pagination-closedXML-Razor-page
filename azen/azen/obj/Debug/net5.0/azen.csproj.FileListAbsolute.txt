@@ -1,0 +1,997 @@
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\73.20.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\74.20.12.2021-Azen\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Cart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Cart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.22.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Cart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Components\VcBasket\Default.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\75.23.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Checkout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Components\VcBasket\Default.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Cart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Checkout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Product\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Product\Size.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Subscribe\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\76.24.12.2021\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Subscribe\SendMailAll.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\appsettings.Development.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\appsettings.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.deps.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.runtimeconfig.dev.json
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.Views.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Humanizer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.AssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.RazorAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.Manifest.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\staticwebassets\azen.StaticWebAssets.xml
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\scopedcss\bundle\azen.styles.css
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.input.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.TagHelpers.output.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.RazorCoreGenerate.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Product\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Product\Size.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Subscribe\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\Subscribe\SendMailAll.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\FAQ\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Components\VcBasket\Default.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Cart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Checkout.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.RazorTargetAssemblyInfo.cs
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.Views.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.csproj.CopyComplete
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\ref\azen.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.pdb
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\obj\Debug\net5.0\azen.genruntimeconfig.cache
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ClosedXML.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\ExcelNumberFormat.dll
+D:\Code Academy\Teaching\Groupes\P222\Lessons\80.06.01.2021-Azen pagination, closedXML, Razor page\Codes\azen\azen\bin\Debug\net5.0\System.IO.Packaging.dll

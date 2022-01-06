@@ -1,0 +1,106 @@
+﻿@model VmBlog
+
+@{
+    //Dictionary<string, string> routeData = new Dictionary<string, string>();
+    //routeData.Add("tagId", Model.Search.tagId);
+}
+
+<div class="site page-content">
+    <div class="breadcrumb-contact-us breadcrumb-section section-box">
+        <div class="container breadcrumb-inner">
+            <div class="breadcrumbs-wrapper">
+                <ul class="phys-breadcrumb">
+                    <li><a href="index.html" class="home">Home</a></li>
+                    <li><a href="nosidebar.html" class="home">Blog</a></li>
+                    <li>Blog No Sidebar</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="content-area">
+        <div class="container">
+            <div class="row">
+                <div class="site-main col-sm-9 alignleft">
+
+                    <div class="site-main col-sm-12 full-width">
+                        <div class="wrapper-blog-content content-blog-masonry masonry-column-3">
+
+                            @foreach (var item in Model.Blogs)
+                            {
+                                <article class="grid-item post">
+                                    <div class="content-item">
+                                        <div class="post-formats-wrapper">
+                                            <a class="post-image" asp-controller="blog" asp-action="details" asp-route-id="@item.Id">
+                                                <img src="~/images/blog/@item.MainImage" class="attachment-full size-full wp-post-image" alt="">
+                                                <div class="overlay"></div>
+                                            </a>
+                                        </div>
+                                        <h2 class="entry-title">
+                                            <a asp-controller="blog" asp-action="details" asp-route-id="@item.Id" rel="bookmark">@item.Title</a>
+                                        </h2>
+                                        <div class="date-social">
+                                            <div class="time">@item.CreatedDate.ToString("dd - MMMM - yyyy")</div>
+                                        </div>
+                                    </div>
+                                </article>
+                            }
+                        </div>
+
+                        <nav aria-label="Page navigation example">
+                            <ul class="pagination justify-content-center">
+                                <li class="page-item @(ViewBag.Page==1?"disabled":"")">
+                                    <a class="page-link" asp-controller="blog" asp-action="index" asp-route-page="@(ViewBag.Page-1)">Previous</a>
+                                </li>
+                                @for (int i = 0; i < ViewBag.PageCount; i++)
+                                {
+                                    <li class="page-item @(ViewBag.Page==(i+1)?"active":"")"><a class="page-link" asp-controller="blog" asp-action="index" asp-route-page="@(i+1)" asp-route-tagId="@Model.Search.tagId" asp-route-catId="@Model.Search.catId" asp-route-searchData="@Model.Search.searchData">@(i+1)</a></li>
+                                }
+                                <li class="page-item @(ViewBag.Page==ViewBag.PageCount?"disabled":"")">
+                                    <a class="page-link" asp-controller="blog" asp-action="index" asp-route-page="@(ViewBag.Page+1)">Next</a>
+                                </li>
+                            </ul>
+                        </nav>
+
+                        <div class="wrapper-view-move">
+                            <div class="view-more-button au-btn">Load more</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget-area col-sm-3 alignleft">
+                    <aside id="search-2" class="widget widget_search">
+                        <form method="get" class="search-form" asp-controller="blog" asp-action="index">
+                            <label>
+                                <span class="screen-reader-text">Search for:</span>
+                                <input class="search-field" asp-for="@Model.Search.searchData" placeholder="search text...">
+                                <input asp-for="@Model.Search.catId" hidden />
+                                <input asp-for="@Model.Search.tagId" hidden />
+                                <input asp-for="@Model.Search.page" hidden />
+                            </label>
+                            <input type="submit" class="search-submit" value="Search">
+                        </form>
+                    </aside>
+                    <aside class="widget widget_categories">
+                        <h3 class="widget-title">CATEGORIES</h3>
+                        <ul>
+                            @foreach (var item in Model.BlogCategories)
+                            {
+                                <li class="cat-item" style="@(item.Id==Model.Search.catId?"background-color: red !important;":"")">
+                                    <a asp-controller="blog" asp-action="index" asp-route-catId="@item.Id" asp-route-tagId="@Model.Search.tagId" asp-route-searchData="@Model.Search.searchData" asp-route-page="@Model.Search.page">@item.Name</a>
+                                </li>
+                            }
+                        </ul>
+                    </aside>
+                    <aside class="widget widget_tag_cloud">
+                        <h3 class="widget-title">TAGS</h3>
+                        <div class="tagcloud">
+                            @foreach (var item in Model.Tags)
+                            {
+                                <a asp-controller="blog" asp-action="index" asp-route-tagId="@item.Id" asp-route-catId="@Model.Search.catId" asp-route-searchData="@Model.Search.searchData" asp-route-page="@Model.Search.page" class="tag-cloud-link" style="@(item.Id==Model.Search.tagId?"background-color: red !important;":"")">@item.Name</a>
+                            }
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

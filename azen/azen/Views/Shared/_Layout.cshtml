@@ -1,0 +1,256 @@
+﻿@inject IHttpContextAccessor _httpContextAccessor
+@{ 
+    string controller = this.ViewContext.RouteData.Values["controller"].ToString().ToLower();
+    string oldData = _httpContextAccessor.HttpContext.Request.Cookies["cart"];
+    int BascekCount = 0;
+
+    if (!string.IsNullOrEmpty(oldData))
+    {
+        BascekCount = oldData.Split("-").Length;
+    }
+}
+<!DOCTYPE html>
+<html lang="en-US" class=" yes-js js_active js">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/assets/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="~/assets/css/owl.theme.default.css">
+    <link rel="stylesheet" href="~/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="~/assets/css/slick.css">
+    <!--google font-->
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/style5152.css">
+    <!--REVOLUTION SLIDER-->
+    <link rel="stylesheet" type="text/css" href="~/assets/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="~/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="~/assets/css/style.css"/>
+    <title>Azen</title>
+</head>
+
+<body>
+    <!--quick view product-->
+    <div class="modal fade" id="quickview" tabindex="-1" role="dialog" aria-labelledby="quickview" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="product-lightbox">
+                    <div class="woocommerce">
+                        <div class="product shop-single-v1-section">
+                            <div class="images images_quick_view">
+                                <a href="#" title="Sea sweater">
+                                    <img src="images/product/Red-Sweater-quickview.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="">
+                                </a>
+                            </div>
+                            <div class="summary summary_quick_view">
+                                <h1 class="product_title entry-title">Sea sweater</h1>
+                                <span class="rating">
+                                    <span class="star-rating">
+                                        <i class="fa fa-star "></i> <i class="fa fa-star "></i> <i class="fa fa-star "></i> <i class="fa fa-star "></i> <i class="fa fa-star-o "></i>
+                                    </span>
+                                    <span class="number-review">( 2 customer reviews )</span>
+                                </span>
+                                <span class="price">
+                                    <del>
+                                        <span class="amount"><span>$</span>40</span>
+                                    </del>
+                                    <ins><span><span>$</span>35</span></ins>
+                                </span>
+                                <div class="woocommerce-product-details__short-description">
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                </div>
+                                <form class="cart" action="#" method="post" enctype="multipart/form-data">
+                                    <div>
+                                        <div class="btn-group">
+                                            <button type="button" class="prev btn ">-</button>
+                                            <button type="button" class="show-number btn ">1</button>
+                                            <button type="button" class="next btn ">+</button>
+                                        </div>
+                                        <div class="btn-add-to-cart">
+                                            <a href="#" class="btn add-to-cart">ADD TO CART</a>
+                                        </div>
+                                    </div>
+                                </form>
+                                <div class="yith-wcwl-add-button">
+                                    <a href="wishlist.html"><i class="fa fa-heart"></i> <span>Add to Wishlist</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button title="Close (Esc)" type="button" class="mfp-close" data-dismiss="modal">×</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--end quick view product-->
+    <!--content-->
+    <div class="wrapper-container">
+        <!--mini cart-->
+        <div class="minicart-content woocommerce">
+            <div class="widget_shopping_cart_contents">
+                <p class="close-cart">Close</p>
+               
+                @await Component.InvokeAsync("VcBasket")
+
+            </div>
+            <div class="background-overlay-cart"></div>
+        </div>
+        <!--end mini cart-->
+        <!--header-->
+        <div class="container container-box-header1">
+            <header id="masthead" class="site-header">
+                <div class="header-hp-1 style-header-hp-1 affix">
+                    <div id="js-navbar-fixed" class="menu-desktop">
+                        <div class="menu-desktop-inner">
+                            <!-- Logo -->
+                            <div class="menu-mobile-effect hamburger hamburger--spin">
+                                <div class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </div>
+                            </div>
+                            <div class="logo">
+                                <a asp-controller="home" asp-action="index" title="azen" rel="home">
+                                    <img src="~/images/Logo.png" alt="azen.physcode.com">
+                                </a>
+                            </div>
+                            <div class="space-header"></div>
+                            <!-- Main Menu -->
+                            <nav class="main-menu">
+                                <ul class="navmenu">
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="home" asp-action="index" class="@(controller=="home"?"active":"")">Home</a>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="about" asp-action="index" class="@(controller=="about"?"active":"")">About</a>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="shop" asp-action="index" class="@(controller=="shop"?"active":"")">Shop</a>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="blog" asp-action="index" class="@(controller=="blog"?"active":"")">Blog</a>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="faq" asp-action="index" class="@(controller=="faq"?"active":"")">FAQ</a>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children">
+                                        <a asp-controller="contact" asp-action="index" class="@(controller=="contact"?"active":"")">Contact</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                            <!-- Header Right -->
+                            <div class="header-right">
+                                <div class="header-wishlist">
+                                    <a href="wishlist.html"><i class="fa fa-heart"></i></a>
+                                </div>
+                                <div class="woocommerce widget_shopping_cart">
+                                    <div class="minicart_hover" id="header-mini-cart">
+                                        <span class="cart-items-number">
+                                            <i class="icon-bag"></i>
+                                            @if (BascekCount != 0)
+                                            {
+                                                <span class="wrapper-items-number">@BascekCount</span>
+                                            }
+                                        </span>
+                                    </div>
+                                </div>
+                                <div id="physc_search_widget-2" class="physc_search">
+                                    <div class="wrapper-search">
+                                        <div class="search-toggler">
+                                            <span class="zmdi zmdi-search"></span>
+                                        </div>
+                                        <div class="search-menu search-overlay search-hidden">
+                                            <div class="closeicon"></div>
+                                            <div class="modal-search-content">
+                                                <form role="search" method="get" class="search-form" action="#">
+                                                    <input type="search" class="search-field" placeholder="Search Here ..." value="" name="s" title="Search for:">
+                                                    <button type="submit" class="search-submit">
+                                                        <span class="zmdi zmdi-search"></span>
+                                                    </button>
+                                                </form>
+                                            </div>
+                                            <div class="background-overlay"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <!--end header-->
+       
+        @RenderBody()
+
+    </div>
+    <!-- end content -->
+    <!--footer-->
+    <div id="wrapper-footer" class="wrapper-footer">
+        <div class="container">
+            <div class="row">
+                <aside class="col-md-4">
+                    <div class="textwidget">
+                        <p>
+                            <a href="#"><img class="alignnone size-full wp-image-100" src="images/Logo-white.png" alt=""></a>
+                        </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="socials"><a href="#"># FACEBOOK</a>&nbsp;&nbsp; <a href="#"># TWITTER</a>&nbsp;&nbsp; <a href="#"># INSTAGRAM</a></div>
+                    </div>
+                </aside>
+                <aside class="col-md-4 text-footer">
+                    <h3 class="widget-title">INFO</h3>
+                    <div class="textwidget">
+                        <ul>
+                            <li>
+                                <i class="zmdi zmdi-home"></i> 3064 Geneva Street , New York , USA
+                            </li>
+                            <li>
+                                <i class="zmdi zmdi-phone"></i> +1-202-555-0157
+                            </li>
+                            <li>
+                                <i class="zmdi zmdi-email"></i> Azenfashion@gmail.com
+                            </li>
+                            <li>
+                                <i class="zmdi zmdi-time"></i> Monday - Saturday: 8:00 am - 18:00 pm
+                                <p class="footer-sunday">
+                                    &nbsp;&nbsp;&nbsp;Sunday : Closed
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                </aside>
+                <aside class="col-md-4 text-footer">
+                    <h3 class="widget-title">INSTAGRAM</h3>
+                    <div class="textwidget">
+                        <div id="sb_instagram" class="sbi sbi_col_4  sbi_width_resp sbi_small">
+                            <a href="#"><img src="images/instagram/picter1.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter2.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter3.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter4.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter5.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter6.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter7.png" alt=""></a>
+                            <a href="#"><img src="images/instagram/picter8.jpg" alt=""></a>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+    <!--end footer-->
+
+    <span class="footer__arrow-top" style="bottom: 30px;">TOP</span>
+    <script src="~/assets/js/jquery-3.4.1.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/flexslider.js"></script>
+    <script src="~/assets/js/slick.min.js"></script>
+    <script src="~/assets/js/owl.carousel.js"></script>
+    <script src="~/assets/js/jquery.themepunch.tools.min.js"></script>
+    <script src="~/assets/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/assets/js/theme5152.js?ver=1.0"></script>
+</body>
+</html>
